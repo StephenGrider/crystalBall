@@ -8,6 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
+@class CystalBall;
+
 @interface ViewController : UIViewController
+
+@property (weak, nonatomic) IBOutlet UILabel *predictionLabel;
+@property (strong, nonatomic) CystalBall *crystalBall;
+-(void)makePrediction;
+
+@property (strong, nonatomic) IBOutlet UIImageView *backgroundImageView;
 
 @end
