@@ -13,7 +13,7 @@
 
 -(NSArray *) predictions {
     if(_predictions == nil){
-        _predictions = @[@"Try again later", @"Yeah right", @"Everyone's goin to get laid tonight", @"Absolutely yes", @"Absolutely not", @"It is decidedly so", @"It is doubtful", @"Yeah she'll put out", @"Nope", @"Don't see that happening", @"Never", @"Maybe"];
+        _predictions = @[@"Try again later", @"Yeah right", @"Probably not", @"Absolutely yes", @"Absolutely not", @"It is decidedly so", @"It is doubtful", @"Won't happen", @"Nope", @"Don't see that happening", @"Never", @"Maybe"];
     }
     return _predictions;
 };

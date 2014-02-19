@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>696E5DB0-8BB6-472E-9194-9D94D4A4A6A6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CrystalBall</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFA74C11-4A41-4838-A33E-DAD585BFC624</key>
+		<string>ssh://github.com/StephenGrider/crystalBall.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CrystalBall.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFA74C11-4A41-4838-A33E-DAD585BFC624</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/StephenGrider/crystalBall.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFA74C11-4A41-4838-A33E-DAD585BFC624</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFA74C11-4A41-4838-A33E-DAD585BFC624</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrystalBall</string>
+		</dict>
+	</array>
+</dict>
+</plist>
